@@ -1,0 +1,1 @@
+# aws_directory_service_adfs_office365
